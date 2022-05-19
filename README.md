@@ -1,4 +1,7 @@
-### Hi there 👋
+# 勉強しろ私
+どもども、ゲームプログラマーになるため日々勉強中であります!
+
+
 
 <!--
 **kikumoto634/kikumoto634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
