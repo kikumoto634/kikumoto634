@@ -1,4 +1,4 @@
-# from me 勉強しろ
+# Dear me 勉強しろ
 
 
 
